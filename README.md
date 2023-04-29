@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathura Rubasinghe</h1>
-<h3 align="center">A motivated, responsible undergraduate who has the ability to engage in challenging endeavors with the capability of hardworking and logical thinking</h3>
+<h3 align="center">A passionate software developer with a love for coding and problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurarubasingha&label=Profile%20views&color=0e75b6&style=flat" alt="chathurarubasingha" /> </p>
 
