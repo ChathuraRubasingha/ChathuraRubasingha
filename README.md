@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **pawprintID.com and FootprintID.com**
 
-- 🌱 I’m currently learning **ReactJS, NodeJs, Express, MongoDB,MySQL Flutter, ReactNative**
+- 🌱 I’m currently learning **ReactJS, NodeJs, Express, MongoDB, MySQL, Flutter, ReactNative**
 
 - 💬 Ask me about **react, node, express, mongoDB, mysql, flutter**
 
