@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathura Rubasinghe</h1>
-<h2 align="center">Software engineer intern at Hasthiya-HIT | Undergraduate Faculty of Information Technology University of Moratuwa </h2>
+<p align="center">Software engineer intern at Hasthiya-HIT | Undergraduate Faculty of Information Technology University of Moratuwa </p>
 <h3 align="center">A passionate software developer with a love for coding and problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurarubasingha&label=Profile%20views&color=0e75b6&style=flat" alt="chathurarubasingha" /> </p>
