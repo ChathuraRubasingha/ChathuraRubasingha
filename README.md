@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chathura Rubasinghe</h1>
-<p align="center">Software engineer intern at Hasthiya-HIT | Undergraduate Faculty of Information Technology University of Moratuwa </p>
+<p align="center">Software engineer | JavaScript Developer| TypeScipt Developer | Graduate from Faculty of Information Technology University of Moratuwa </p>
 <h3 align="center">A passionate software developer with a love for coding and problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathurarubasingha&label=Profile%20views&color=0e75b6&style=flat" alt="chathurarubasingha" /> </p>
-
-
-
-- 🔭 I’m currently working on **pawprintID.com and FootprintID.com**
-
-- 🌱 I’m currently learning **ReactJS, NodeJs, Express, MongoDB, MySQL, Flutter, ReactNative**
-
-- 💬 Ask me about **react, node, express, mongoDB, mysql, flutter**
 
 - 📫 How to reach me **rubasinghe99cpk@gmail.com**
 
